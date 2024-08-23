@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammed Sahad</h1>
-<h3 align="center">As a self-taught developer specializing in the MERN stack, I am passionate about leveraging my skills to build scalable, dynamic web applications. Through my experience in bootcamp and personal projects, I have developed a solid foundation in front-end and back-end web development, including proficiency in JavaScript, React, Node.js, Express.js, and MongoDB. I am always seeking new challenges to further develop my skills and contribute to the tech community. Let's connect and discuss how we can collaborate on exciting projects.</h3>
+<h3 align="center">As an experienced Full Stack Developer, I've evolved from self-taught beginnings to a proficient contributor in the MERN stack, including deployment. My journey encompasses comprehensive expertise in JavaScript, React, Node.js, Express.js, and MongoDB. Currently engaged in impactful projects. I am committed to continuous skill development and contributing to the tech community.let's connect, swap insights, or maybe brainstorm on some cool ideas!.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahad8878&label=Profile%20views&color=0e75b6&style=flat" alt="sahad8878" /> </p>
 
